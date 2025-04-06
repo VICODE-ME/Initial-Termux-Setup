@@ -1,2 +1,2 @@
-# Initial-Garuda-Setup
-Initial-Garuda-Setup
+# Initial-Termux-Setup
+Termux-initial-setup-script.sh
