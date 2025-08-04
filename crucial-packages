@@ -3,3 +3,5 @@ pkg install cronie
 pkg install openssh
 
 pkg install iptools2
+
+pkg install zip
