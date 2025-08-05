@@ -9,3 +9,8 @@ pkg install zip
 #heavy-packages
 
 pkg install python
+
+
+#termux-dependancies
+
+pkg install termux-api
