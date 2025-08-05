@@ -10,6 +10,8 @@ pkg install zip
 
 pkg install python
 
+pkg install git
+
 
 #termux-dependancies
 
