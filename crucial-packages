@@ -5,3 +5,7 @@ pkg install openssh
 pkg install iptools2
 
 pkg install zip
+
+#heavy-packages
+
+pkg install python
