@@ -12,6 +12,7 @@ pkg install python
 
 pkg install git
 
+pkg install curl
 
 #termux-dependancies
 
