@@ -6,6 +6,8 @@ pkg install iptools2
 
 pkg install zip
 
+pkg install 7z
+
 #heavy-packages
 
 pkg install python
